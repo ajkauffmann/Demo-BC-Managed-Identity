@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Demo_Managed_Identity": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7097",
+      "launchBrowser": false
+    }
+  }
+}
